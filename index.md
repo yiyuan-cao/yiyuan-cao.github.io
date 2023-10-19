@@ -7,7 +7,6 @@ PhD student in Programming Languages. Spicy food lover.
 
 <div id="webaddress">
 <a href="cyy9447@pku.edu.cn">cyy9447@pku.edu.cn</a>
-| +86 18810917939
 </div>
 
 ## About me
