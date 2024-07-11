@@ -33,12 +33,12 @@ PhD student in Programming Languages.
 __National Institute of Informatics, Japan.__
 
 Research intern, supervised by Prof. Taro Sekiyama.
-Topic: Resource-aware Temporal Property Verification
+Topic: type-based temporal property verification.
 
 ## Publications
 
 `2024`
-Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu __Semantics Lifting for Syntactic Sugar__. (conditionally accepted to OOPSLA 2024)
+Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__. (conditionally accepted to OOPSLA 2024)
 
 `2023`
 _Yiyuan Cao_, Zhichao Guan, Yushuo Xiao, Haiyan Zhao, Zhenjiang Hu, __Development of Domain-specific Languages: Status and Prospects__, _Science and Technology Foresight_, 2023, 2(1): 46-61. (in Chinese)
