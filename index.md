@@ -11,7 +11,7 @@ PhD student in Programming Languages.
 
 ## About me
 
-I’m Yiyuan, a second-year PhD student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/) at the School of Computer Science, Peking University. My advisor is Prof. [Zhenjiang Hu](https://zhenjiang888.github.io).
+I’m Yiyuan, a third-year PhD student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/) at the School of Computer Science, Peking University. My advisor is Prof. [Zhenjiang Hu](https://zhenjiang888.github.io).
 
 My research interest is in _programming languages_ and _program proofs_ in general. I maintain a list of learning resources for these topics as a [Gist](https://gist.github.com/yiyuan-cao/fe3186ef85f70cef970ee221b2936548). I am particularly interested in how to develop _verifiably_ safe, correct, and efficient programs in a _productive_ manner, with the help of programming language techniques.
 
@@ -38,7 +38,7 @@ Topic: type-based temporal property verification.
 ## Publications
 
 `2024`
-Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__. (conditionally accepted to OOPSLA 2024)
+Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__. (accepted to OOPSLA 2024)
 
 `2023`
 _Yiyuan Cao_, Zhichao Guan, Yushuo Xiao, Haiyan Zhao, Zhenjiang Hu, __Development of Domain-specific Languages: Status and Prospects__, _Science and Technology Foresight_, 2023, 2(1): 46-61. (in Chinese)
@@ -83,11 +83,8 @@ Our project tries to bridge this gap by presenting a type-based method for the c
 
 ## Awards
 
-`2016`
-National Olympiad in Informatics (NOI), Silver medal.
-
 `2019`
-National Scholarship.
+China National Scholarship.
 
 ## Languages
 Mandarin Chinese: native.
