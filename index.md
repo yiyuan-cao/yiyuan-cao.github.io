@@ -13,7 +13,7 @@ PhD student in Programming Languages.
 
 I’m Yiyuan, a third-year PhD student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/) at the School of Computer Science, Peking University. My advisor is Prof. [Zhenjiang Hu](https://zhenjiang888.github.io).
 
-My research interest is in _programming languages_ and _program proofs_ in general. I maintain a list of learning resources for these topics as a [Gist](https://gist.github.com/yiyuan-cao/fe3186ef85f70cef970ee221b2936548). I am particularly interested in how to develop _verifiably_ safe, correct, and efficient programs in a _productive_ manner, with the help of programming language techniques.
+My research interest is in _programming languages_ and _program proofs_ in general. I am particularly interested in how to develop _verifiably_ safe, correct, and efficient programs in a _productive_ manner, with the help of programming language techniques.
 
 ## Education
 
@@ -37,8 +37,11 @@ Topic: type-based temporal property verification.
 
 ## Publications
 
+`2025`
+_Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (In Submission)
+
 `2024`
-Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__. (accepted to OOPSLA 2024)
+Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__, OOPSLA 2024.
 
 `2023`
 _Yiyuan Cao_, Zhichao Guan, Yushuo Xiao, Haiyan Zhao, Zhenjiang Hu, __Development of Domain-specific Languages: Status and Prospects__, _Science and Technology Foresight_, 2023, 2(1): 46-61. (in Chinese)
@@ -59,7 +62,7 @@ Unfortunately, the traditional approach of translating programs containing synta
 
 To address this challenge, we introduce the idea of semantics lifting that aims to statically derive self-contained evaluation rules for syntactic sugars. In this way, we get correctly-abstracted semantics for sugar-based DSLs at a low price.
 
-__Building Resource-aware Programming Languages in F\*.__ (ongoing)
+__Building Resource-Aware Programming Languages in F\*.__ (ongoing)
 
 _How well does your program perform? We need more than functional correctness._ Resource consumption (e.g., time, memory, and energy) is a crucial aspect of the behavior of programs in real-world applications.
 
@@ -67,7 +70,7 @@ While significant efforts have been made in the domains of automatic resource an
 
 To address this gap, we are implementing a prototype in F\*, a proof-oriented programming language, as a first step towards specifying and verifying resource bounds within a language-integrated framework. One of the key features of our approach is the ability to incorporate existing automatic resource analysis as automatable lemma libraries while retaining the expressiveness and flexibility to specify and verify complex resource bounds with more user intervention.
 
-__Proof-integrated System-level Programming Language.__ (ongoing)
+__Proof-Integrated System-level Programming Language.__ (ongoing)
 
 A verification system usually needs three major components: a programming language, a specification language, and a proof language. _Can we have a system-level language where programming, specification, and proof seamlessly coexist?_
 
@@ -75,7 +78,7 @@ The goal of this project is to merge specification and proof capabilities into a
 
 We are implementing a prototype language C\*. We extend the C language with LCF-based proving capabilities and rely on program annotations and symbolic execution to reduce program reasoning to Separation logic entailments.
 
-__Resource-aware Temporal Property Verification.__ (ongoing)
+__Type-Based Temporal Resource Usage Analysis.__ (ongoing)
 
 Ensuring the valid use of resources (e.g., a file must be opened before read, a lock must be eventually released) is a critical aspect of program correctness. Previous work in this area either focuses on the verification of general temporal properties (including liveness) of a global trace or handles multiple resource traces but only addresses safety properties.
 
