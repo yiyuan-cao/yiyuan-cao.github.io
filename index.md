@@ -11,7 +11,7 @@ PhD student in Programming Languages.
 
 ## About me
 
-I’m Yiyuan, a third-year PhD student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/) at the School of Computer Science, Peking University. My advisor is Prof. [Zhenjiang Hu](https://zhenjiang888.github.io).
+I’m Yiyuan, a fourth-year PhD student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/) at the School of Computer Science, Peking University. My advisor is Prof. [Zhenjiang Hu](https://zhenjiang888.github.io).
 
 My research interest is in _programming languages_ and _program proofs_ in general. I am particularly interested in how to develop _verifiably_ safe, correct, and efficient programs in a _productive_ manner, with the help of programming language techniques.
 
