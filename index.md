@@ -49,7 +49,7 @@ _Yiyuan Cao_, Zhichao Guan, Yushuo Xiao, Haiyan Zhao, Zhenjiang Hu, __Developmen
 ## Talks
 
 `2025`
-_Yiyuan Cao_, Taro Sekiyama, _Temporal Resource Typing: Enriching Substructural Typing for Liveness Reasoning_. IWACO 2025. [[PDF]](media/IWACO25.pdf)
+_Yiyuan Cao_, Taro Sekiyama, __Temporal Resource Typing: Enriching Substructural Typing for Liveness Reasoning__. IWACO 2025. [[PDF]](media/IWACO25.pdf)
 
 ## Teaching
 
@@ -67,7 +67,7 @@ Unfortunately, the traditional approach of translating programs containing synta
 
 To address this challenge, we introduce the idea of semantics lifting that aims to statically derive self-contained evaluation rules for syntactic sugars. In this way, we get correctly-abstracted semantics for sugar-based DSLs at a low price.
 
-__Building Resource-Aware Programming Languages in F\*.__ (ongoing)
+__Building Resource-Aware Programming Languages in F\*.__
 
 _How well does your program perform? We need more than functional correctness._ Resource consumption (e.g., time, memory, and energy) is a crucial aspect of the behavior of programs in real-world applications.
 
@@ -79,9 +79,7 @@ __Proof-Integrated System-level Programming Language.__ (ongoing)
 
 A verification system usually needs three major components: a programming language, a specification language, and a proof language. _Can we have a system-level language where programming, specification, and proof seamlessly coexist?_
 
-The goal of this project is to merge specification and proof capabilities into a system-level programming language, resulting in more readable specifications that resemble contracts with ghost code and more direct proof manipulation just like programming. This approach has the potential to reduce the needed expertise for doing verification and bridge the communication gaps between proof engineers and program developers, which is often perceived as a significant obstacle to the broader adoption of verification practices.
-
-We are implementing a prototype language C\*. We extend the C language with LCF-based proving capabilities and rely on program annotations and symbolic execution to reduce program reasoning to Separation logic entailments.
+The goal of this project is to merge specification and proof capabilities into a low-level programming language. We are implementing a prototype language C\*. We extend the C language with explicit proof code and ghost variables that labels static information, supporting explicit reasoning at the language level.
 
 __Type-Based Temporal Resource Usage Analysis.__ (ongoing)
 
