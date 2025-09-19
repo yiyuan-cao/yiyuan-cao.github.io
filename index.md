@@ -38,13 +38,18 @@ Topic: type-based temporal property verification.
 ## Publications
 
 `2025`
-_Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (In Submission)
+_Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (In Submission) [[PDF]](media/POPL26.pdf)
 
 `2024`
 Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__, OOPSLA 2024.
 
 `2023`
 _Yiyuan Cao_, Zhichao Guan, Yushuo Xiao, Haiyan Zhao, Zhenjiang Hu, __Development of Domain-specific Languages: Status and Prospects__, _Science and Technology Foresight_, 2023, 2(1): 46-61. (in Chinese)
+
+## Talks
+
+`2025`
+_Yiyuan Cao_, Taro Sekiyama, _Temporal Resource Typing: Enriching Substructural Typing for Liveness Reasoning_. IWACO 2025. [[PDF]](media/IWACO25.pdf)
 
 ## Teaching
 
@@ -93,7 +98,3 @@ China National Scholarship.
 Mandarin Chinese: native.
 
 English: fluent as a working language. (CET-6 score: 607)
-
-Coq: finished Software Foundations Vol. 1, Vol. 2, and most of Vol. 6.
-
-Other languages I speak: C, F\*, OCaml, Haskell.
