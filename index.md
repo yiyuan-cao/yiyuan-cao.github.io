@@ -49,7 +49,7 @@ _Yiyuan Cao_, Zhichao Guan, Yushuo Xiao, Haiyan Zhao, Zhenjiang Hu, __Developmen
 ## Talks
 
 `2025`
-_Yiyuan Cao_, Taro Sekiyama, __Temporal Resource Typing: Enriching Substructural Typing for Liveness Reasoning__. IWACO 2025. [[PDF]](media/IWACO25.pdf)
+_Yiyuan Cao_, Taro Sekiyama, __Temporal Resource Typing: Enriching Substructural Typing for Liveness Reasoning__. IWACO 2025. [[Extended Abstract]](media/IWACO25.pdf) [[Slides]](media/IWACO25-slides.pdf)
 
 ## Teaching
 
