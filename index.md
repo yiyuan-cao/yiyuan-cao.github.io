@@ -40,6 +40,8 @@ Topic: type-based temporal property verification.
 `2025`
 _Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (In Submission) [[PDF]](media/POPL26.pdf)
 
+_Yiyuan Cao_, Wenbo Xu, Jinkai Fan, Jiayi Zhuang, Zixun Guo, Di Wang, Qinxiang Cao, Haiyan Zhao, Zhenjiang Hu, __A Proof-Integrated Low-Level Programming Language with Local, Operational, and Extensible Reasoning__. (In Submission) [[PDF]](media/PLDI26-cstar.pdf)
+
 `2024`
 Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__, OOPSLA 2024.
 
