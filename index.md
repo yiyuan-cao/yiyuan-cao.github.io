@@ -94,6 +94,10 @@ Our project tries to bridge this gap by presenting a type-based method for the c
 `2019`
 China National Scholarship.
 
+`2025`
+Huawei Scholarship.
+
+
 ## Languages
 Mandarin Chinese: native.
 
