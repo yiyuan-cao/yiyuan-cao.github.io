@@ -37,6 +37,11 @@ Topic: type-based temporal property verification.
 
 ## Publications
 
+`2026`
+_Yiyuan Cao_, Jiayi Zhuang, Jinkai Fan, Di Wang, Zhenjiang Hu, __A HOL Theorem Proving Interface for C__, [TASE 2026](https://link.springer.com/chapter/10.1007/978-3-032-30693-7_8). [[PDF]](media/TASE26.pdf)
+
+_Yiyuan Cao_, Jinkai Fan, Houjin Chen, Jiayi Zhuang, Zixun Guo, Zhiyi Wang, Wenbo Xu, Di Wang, Qinxiang Cao, Haiyan Zhao, Zhenjiang Hu, __Live Verification in C via In-Situ Proof Code__. (In Submission) [[PDF]](media/liveverif-in-c.pdf)
+
 `2025`
 _Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (In Submission) [[PDF]](media/POPL26.pdf)
 
