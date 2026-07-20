@@ -43,9 +43,9 @@ _Yiyuan Cao_, Jiayi Zhuang, Jinkai Fan, Di Wang, Zhenjiang Hu, __A HOL Theorem P
 _Yiyuan Cao_, Jinkai Fan, Houjin Chen, Jiayi Zhuang, Zixun Guo, Zhiyi Wang, Wenbo Xu, Di Wang, Qinxiang Cao, Haiyan Zhao, Zhenjiang Hu, __Live Verification in C via In-Situ Proof Code__. (In Submission) [[PDF]](media/liveverif-in-c.pdf)
 
 `2025`
-_Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (In Submission) [[PDF]](media/POPL26.pdf)
+_Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (Manuscript) [[PDF]](media/POPL26.pdf)
 
-_Yiyuan Cao_, Wenbo Xu, Jinkai Fan, Jiayi Zhuang, Zixun Guo, Di Wang, Qinxiang Cao, Haiyan Zhao, Zhenjiang Hu, __A Proof-Integrated Low-Level Programming Language with Local, Operational, and Extensible Reasoning__. (In Submission) [[PDF]](media/PLDI26-cstar.pdf)
+_Yiyuan Cao_, Wenbo Xu, Jinkai Fan, Jiayi Zhuang, Zixun Guo, Di Wang, Qinxiang Cao, Haiyan Zhao, Zhenjiang Hu, __A Proof-Integrated Low-Level Programming Language with Local, Operational, and Extensible Reasoning__. (Manuscript) [[PDF]](media/PLDI26-cstar.pdf)
 
 `2024`
 Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Semantics Lifting for Syntactic Sugar__, OOPSLA 2024.
@@ -66,6 +66,13 @@ _Teaching Assistant._ [Software Foundations](https://xiongyingfei.github.io/SF/2
 _Teaching Assistant._ [Introduction to Functional Programming](https://zhenjiang888.github.io/FP/2023/), Peking University, Fall 2023.
 
 ## Research projects
+
+__Proof-Integrated System-level Programming Language.__
+
+A verification system usually needs three major components: a programming language, a specification language, and a proof language. _Can we have a system-level language where programming, specification, and proof seamlessly coexist?_
+
+The goal of this project is to merge specification and proof capabilities into a low-level programming language. We are implementing a prototype language C\*. We extend the C language with explicit proof code and ghost variables that labels static information, supporting explicit reasoning at the language level.
+
 __Semantics Lifting for Syntactic Sugar.__
 
 _Syntactic sugar plays a crucial role in engineering programming languages._ It offers convenient syntax and higher-level abstractions, as witnessed by its pervasive use in both general-purpose and domain-specific contexts.
@@ -82,13 +89,7 @@ While significant efforts have been made in the domains of automatic resource an
 
 To address this gap, we are implementing a prototype in F\*, a proof-oriented programming language, as a first step towards specifying and verifying resource bounds within a language-integrated framework. One of the key features of our approach is the ability to incorporate existing automatic resource analysis as automatable lemma libraries while retaining the expressiveness and flexibility to specify and verify complex resource bounds with more user intervention.
 
-__Proof-Integrated System-level Programming Language.__ (ongoing)
-
-A verification system usually needs three major components: a programming language, a specification language, and a proof language. _Can we have a system-level language where programming, specification, and proof seamlessly coexist?_
-
-The goal of this project is to merge specification and proof capabilities into a low-level programming language. We are implementing a prototype language C\*. We extend the C language with explicit proof code and ghost variables that labels static information, supporting explicit reasoning at the language level.
-
-__Type-Based Temporal Resource Usage Analysis.__ (ongoing)
+__Type-Based Temporal Resource Usage Analysis.__
 
 Ensuring the valid use of resources (e.g., a file must be opened before read, a lock must be eventually released) is a critical aspect of program correctness. Previous work in this area either focuses on the verification of general temporal properties (including liveness) of a global trace or handles multiple resource traces but only addresses safety properties.
 
@@ -106,4 +107,4 @@ Huawei Scholarship.
 ## Languages
 Mandarin Chinese: native.
 
-English: fluent as a working language. (CET-6 score: 607)
+English: fluent as a working language.
