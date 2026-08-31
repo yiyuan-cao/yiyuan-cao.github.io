@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yiyuan Cao's CV
+title: Yiyuan Cao's Homepage
 ---
 # Yiyuan Cao
 PhD student in Programming Languages.
@@ -11,7 +11,7 @@ PhD student in Programming Languages.
 
 ## About me
 
-I’m Yiyuan, a fourth-year PhD student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/) at the School of Computer Science, Peking University. My advisor is Prof. [Zhenjiang Hu](https://zhenjiang888.github.io).
+I’m Yiyuan, a fifth-year PhD student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/) at the School of Computer Science, Peking University. My advisor is Prof. [Zhenjiang Hu](https://zhenjiang888.github.io).
 
 My research interest is in _programming languages_ and _program proofs_ in general. I am particularly interested in how to develop _verifiably_ safe, correct, and efficient programs in a _productive_ manner, with the help of programming language techniques.
 
@@ -38,9 +38,11 @@ Topic: type-based temporal property verification.
 ## Publications
 
 `2026`
+Zixun Guo\*, _Yiyuan Cao_\*, Di Wang, Zhenjiang Hu, __Extracting Functional Properties from Verified Imperative Programs__, APLAS 2026. (\* equal contribution) [[PDF]](media/APLAS26.pdf)
+
 _Yiyuan Cao_, Jiayi Zhuang, Jinkai Fan, Di Wang, Zhenjiang Hu, __A HOL Theorem Proving Interface for C__, [TASE 2026](https://link.springer.com/chapter/10.1007/978-3-032-30693-7_8). [[PDF]](media/TASE26.pdf)
 
-_Yiyuan Cao_, Jinkai Fan, Houjin Chen, Jiayi Zhuang, Zixun Guo, Zhiyi Wang, Wenbo Xu, Di Wang, Qinxiang Cao, Haiyan Zhao, Zhenjiang Hu, __Live Verification in C via In-Situ Proof Code__. (In Submission) [[PDF]](media/liveverif-in-c.pdf)
+_Yiyuan Cao_, Jinkai Fan, Houjin Chen, Jiayi Zhuang, Zixun Guo, Zhiyi Wang, Wenbo Xu, Di Wang, Qinxiang Cao, Haiyan Zhao, Zhenjiang Hu, __Live Verification in C via In-Situ Proof Code__. (Manuscript) [[PDF]](media/liveverif-in-c.pdf)
 
 `2025`
 _Yiyuan Cao_, Taro Sekiyama, __Type-Based Temporal Resource Usage Analysis__. (Manuscript) [[PDF]](media/POPL26.pdf)
@@ -54,6 +56,9 @@ Zhichao Guan, _Yiyuan Cao_, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu, __Sem
 _Yiyuan Cao_, Zhichao Guan, Yushuo Xiao, Haiyan Zhao, Zhenjiang Hu, __Development of Domain-specific Languages: Status and Prospects__, _Science and Technology Foresight_, 2023, 2(1): 46-61. (in Chinese)
 
 ## Talks
+
+`2026`
+_Yiyuan Cao_, __C\*：Towards Proof-Integrated Systems Programming in C__. [PLChina 2026](https://pl.cs.pku.edu.cn/pl-china-2026/program/). [[Slides]](media/CStar-PLChina26-final.pdf)
 
 `2025`
 _Yiyuan Cao_, Taro Sekiyama, __Temporal Resource Typing: Enriching Substructural Typing for Liveness Reasoning__. IWACO 2025. [[Extended Abstract]](media/IWACO25.pdf) [[Slides]](media/IWACO25-slides.pdf)
@@ -97,12 +102,14 @@ Our project tries to bridge this gap by presenting a type-based method for the c
 
 ## Awards
 
-`2019`
-China National Scholarship.
-
 `2025`
 Huawei Scholarship.
 
+`2019`
+China National Scholarship.
+
+`2016`
+National Olympiad in Informatics (CCF NOI 2016), Silver Medal.
 
 ## Languages
 Mandarin Chinese: native.
